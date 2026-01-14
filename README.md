@@ -4,3 +4,5 @@
 # OK, maybe this will work out well soon.
 
 # I am working in a lab at USUHS.
+
+# 14Jan26 - I uploaded the Colab Notebook.  It looks that way at least.
